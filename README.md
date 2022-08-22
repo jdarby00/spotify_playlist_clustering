@@ -1,2 +1,2 @@
 # spotify_playlist_clustering
-In this pro
+In this project, I requested my Spotify listening history data from Spotify, which I then analyzed by querying song attributes using Spotify's API. I then used a supervised machine learning technique called K-means clustering to cluster all songs into 4 clusters based on similar attributes as well as distance from the centroids placed. Once all songs had an assigned cluster, I analyzed what each cluster represented musically, then exported the grouped songs into playlists. I then named the playlists according to the songs like attributes (accoustic vs electric, slow vs fast, etc.).
